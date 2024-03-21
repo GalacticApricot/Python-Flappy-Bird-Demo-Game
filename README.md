@@ -38,4 +38,4 @@ After setting up:
 
 Discord: galacticapricot
 Email: me@galacticapricot.dev
-Website: https://new.galacticapricot.dev
+Website: https://galacticapricot.dev
